@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/Email-proy31339@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/Location-Bengaluru%2C%20India-34A853?style=flat&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-Delhi NCR%2C%20India-34A853?style=flat&logo=googlemaps&logoColor=white" />
   &nbsp;
   <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=flat" />
 </p>
